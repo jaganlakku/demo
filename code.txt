@@ -5,4 +5,4 @@ void main()
 printf("hello");
 
 }
-test change foor .
+test change for
